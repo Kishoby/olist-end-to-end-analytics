@@ -1,0 +1,26 @@
+olist-env/
+# Python virtual environments
+olist-env/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Visual Studio temporary files
+.vs/
+**/.vs/
+
+# VS Code
+.vscode/
+
+# Environment variables
+.env
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Windows files
+Thumbs.db
+.DS_Store

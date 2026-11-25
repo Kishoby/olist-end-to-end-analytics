@@ -1,0 +1,11 @@
+pandas>=2.0
+numpy
+scikit-learn
+lightgbm
+shap
+sqlalchemy>=2.0
+pyodbc
+scipy
+matplotlib
+joblib
+sqlglot
